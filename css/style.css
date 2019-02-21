@@ -29,6 +29,25 @@ body{
 	background: white;
 	border-radius: 5px;
 }
+.contenido #fb {
+	color: #3b5998;
+	}
+
+.contenido #ch {
+	color: darkred;
+	}
+
+.contenido #app {
+	color: #a4c639;
+	}
+
+.contenido #at {
+	color: red;
+	}
+
+.contenido #wi {
+	color: gray;
+	}		
 
 #cerrar {
 	display: none;
