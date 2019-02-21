@@ -6,6 +6,12 @@ body{
  margin: 0;
 }
 
+body #logo {
+	
+	font-family: 'Permanent Marker', cursive;
+	font-size: 40px;
+	}
+
 .modal {
 	width: 100%;
 	height: 100vh;
@@ -29,6 +35,7 @@ body{
 	background: white;
 	border-radius: 5px;
 }
+
 .contenido #fb {
 	color: #3b5998;
 	}
